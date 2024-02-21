@@ -1,7 +1,7 @@
-# Real-State-Buenos-Aires
+# Real-Estate-Buenos-Aires
 Investigation about facts and information related with the real state in Buenos Aires.
 
-# REAL STATE - BUENOS AIRES
+# REAL ESTATE - BUENOS AIRES
 
 En este trabajo se presentara informacion estadistica clave para entender el mercado de inmuebles en Buenos Aires, Argentina. Se buscara abordar cuestiones que pasan por la mente de un agente el cual busca optimizar el rendimiento de su capital adentrandose en el mundo del real state.
 
